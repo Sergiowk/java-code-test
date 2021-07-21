@@ -11,3 +11,4 @@
 *.jar
 gradle/wrapper/gradle-wrapper.properties
 *.bat
+/bin/
